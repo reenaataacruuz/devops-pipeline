@@ -10,3 +10,4 @@ npm run lint      # Roda ESLint
 npm test          # Executa testes com Jest
 npm start         # Inicia o servidor localmente
 ```
+
