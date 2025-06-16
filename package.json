@@ -1,5 +1,5 @@
 {
-  "name": "devops-pipeline-example",
+  "name": "devops-pipeline",
   "version": "1.0.0",
   "description": "Projeto simples com CI/CD usando GitHub Actions",
   "main": "src/index.js",
